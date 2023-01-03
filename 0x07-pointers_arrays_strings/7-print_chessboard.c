@@ -17,7 +17,6 @@ void print_chessboard(char (*a)[8])
 		{
 			_putchar(a[rows][columns]);
 		}
-// ASCII value for newline is 10
 		_putchar(10);
 	}
 }
